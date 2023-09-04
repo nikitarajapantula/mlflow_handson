@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993993782109511820/c93365302aa84c0c99054213896dcc43/artifacts
+end_time: 1693462239838
+entry_point_name: ''
+experiment_id: '993993782109511820'
+lifecycle_stage: active
+run_id: c93365302aa84c0c99054213896dcc43
+run_name: Data Loading
+run_uuid: c93365302aa84c0c99054213896dcc43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693462230770
+status: 3
+tags: []
+user_id: nikita.rajapantu

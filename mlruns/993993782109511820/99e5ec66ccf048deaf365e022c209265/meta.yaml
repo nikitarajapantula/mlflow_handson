@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/993993782109511820/99e5ec66ccf048deaf365e022c209265/artifacts
+end_time: 1693462260738
+entry_point_name: ''
+experiment_id: '993993782109511820'
+lifecycle_stage: active
+run_id: 99e5ec66ccf048deaf365e022c209265
+run_name: SVM training
+run_uuid: 99e5ec66ccf048deaf365e022c209265
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693462239884
+status: 3
+tags: []
+user_id: nikita.rajapantu

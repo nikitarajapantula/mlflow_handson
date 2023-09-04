@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/127877526861877807/c5992c70d2ac4256b730b2bfd66f666d/artifacts
+end_time: 1693304077589
+entry_point_name: ''
+experiment_id: '127877526861877807'
+lifecycle_stage: active
+run_id: c5992c70d2ac4256b730b2bfd66f666d
+run_name: fearless-flea-246
+run_uuid: c5992c70d2ac4256b730b2bfd66f666d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693304067308
+status: 3
+tags: []
+user_id: nikita.rajapantu

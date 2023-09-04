@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/127877526861877807/b4a76b6401bc4f0790cceb44d335385e/artifacts
+end_time: 1693304088475
+entry_point_name: ''
+experiment_id: '127877526861877807'
+lifecycle_stage: active
+run_id: b4a76b6401bc4f0790cceb44d335385e
+run_name: crawling-rat-558
+run_uuid: b4a76b6401bc4f0790cceb44d335385e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693304077718
+status: 3
+tags: []
+user_id: nikita.rajapantu
